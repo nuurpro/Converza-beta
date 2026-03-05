@@ -1,0 +1,8 @@
+{
+  "name": "CONVERZA test",
+  "description": "Multimodal AI Agent Factory that converts static photos into viral Uzbek video commercials using Vision, TTS, and Neural Video generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
